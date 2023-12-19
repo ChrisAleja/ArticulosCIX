@@ -1,0 +1,14 @@
+/*RESETEAR LOS CSS*/
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.interEspacio{
+    margin-top: 15px;
+    margin-bottom: 15px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
